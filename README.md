@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joy Kitet and I'm a Mobile App enthusiast from Kenya.<br>I am passionate about mobile app development especially Android  apss.<br>- I am experienced in  dart, Kotlin, Java, Flutter, and database design. 
+<h2 align="left">Hi 👋! My name is Joy Kitet and I'm a Mobile App enthusiast from Kenya.<br>I am passionate about mobile app development especially Android  apps.<br>- I am experienced in  dart, Kotlin, Java, Flutter, and database design. 
 
 ###
 
